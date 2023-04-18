@@ -1,4 +1,4 @@
-package programmers.Kit.BruteForce;
+package programmers.kit.bruteForce;
 
 public class Carpet {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package programmers.Kit.BruteForce;
+package programmers.kit.bruteForce;
 
 import java.util.HashSet;
 import java.util.Set;

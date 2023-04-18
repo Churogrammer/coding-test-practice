@@ -1,4 +1,4 @@
-package programmers.Kit.Heap;
+package programmers.kit.heap;
 
 import java.util.*;
 
