@@ -1,4 +1,4 @@
-import make.sort.MergeSort;
+import test.sort.MergeSort;
 
 public class Starter {
     public static void main(String[] args) {

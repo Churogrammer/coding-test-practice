@@ -1,4 +1,4 @@
-package make.sort;
+package test.sort;
 
 public class DoublePractice {
 

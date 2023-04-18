@@ -5,36 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72efa3ee-f5a3-4863-b756-aeb13da44eaa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skills/Numbers/배수나누기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/silver/BaekjoonTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/silver/미로탐색.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/silver/숨바꼭질1697.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/silver/알고리즘수업1_깊이우선탐색.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/silver/알고리즘수업1_너비우선탐색.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baekjoon/silver/파도반수열01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/backtracking/XOR1863.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/algorithm/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/algorithm/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/algorithm/DFSother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/sort/DoublePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/sort/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/make/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Kit/BruteForce/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Kit/BruteForce/FindSosu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Kit/Greedy/GymClothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programmers/Kit/Heap/MoreSpicier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills/Numbers/배수나누기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/numbers/배수나누기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Starter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Starter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/algorithm/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/algorithm/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/algorithm/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/algorithm/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/algorithm/DFSother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/algorithm/DFSother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/sort/DoublePractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sort/DoublePractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/sort/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sort/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/make/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sort/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +174,7 @@
       <workItem from="1681571039426" duration="861000" />
       <workItem from="1681697109112" duration="4561000" />
       <workItem from="1681778174435" duration="9388000" />
-      <workItem from="1681820533273" duration="349000" />
+      <workItem from="1681820533273" duration="717000" />
     </task>
     <servers />
   </component>
@@ -214,12 +196,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/make/sort/InsertSort.java</url>
+          <url>file://$PROJECT_DIR$/src/test/sort/InsertSort.java</url>
           <line>12</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/make/algorithm/DFSother.java</url>
+          <url>file://$PROJECT_DIR$/src/test/algorithm/DFSother.java</url>
           <line>13</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
@@ -279,9 +261,9 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/make/sort/MergeSort.java</url>
+          <url>file://$PROJECT_DIR$/src/test/sort/MergeSort.java</url>
           <line>40</line>
-          <properties class="make.sort.MergeSort" method="getMinimum">
+          <properties class="test.sort.MergeSort" method="getMinimum">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

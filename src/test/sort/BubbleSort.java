@@ -1,4 +1,4 @@
-package make.sort;
+package test.sort;
 
 import java.util.ArrayList;
 import java.util.List;

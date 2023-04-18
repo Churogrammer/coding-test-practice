@@ -1,8 +1,6 @@
-package make.sort;
+package test.sort;
 
 import java.util.LinkedList;
-import java.util.List;
-import java.util.ListIterator;
 
 public class MergeSort {
     LinkedList<Integer> list;

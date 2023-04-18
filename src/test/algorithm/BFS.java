@@ -1,4 +1,4 @@
-package make.algorithm;
+package test.algorithm;
 
 import java.util.LinkedList;
 import java.util.Queue;

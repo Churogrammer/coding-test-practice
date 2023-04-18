@@ -1,4 +1,4 @@
-package Skills.Numbers;
+package leetcode.numbers;
 
 public class 배수나누기 {
 
