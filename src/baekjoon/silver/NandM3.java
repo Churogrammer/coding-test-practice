@@ -1,42 +1,43 @@
 package baekjoon.silver;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.StringTokenizer;
 
-public class NandM2 {
+/*
+* N과 M (3)
+* https://www.acmicpc.net/problem/15651
+* */
+public class NandM3 {
+    static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        NandM2 s = new NandM2();
+        NandM3 s = new NandM3();
 
         int n = Integer.parseInt(st.nextToken());
         int m = Integer.parseInt(st.nextToken());
 
         int[] arr = new int[n];
-        boolean[] vis = new boolean[n];
         for(int i = 0; i< n;i++){
             arr[i] = i+1;
         }
 
-        s.dfs(m,0, arr, vis, "");
+        s.dfs(m, arr, "");
+        bw.flush();
     }
 
-    private void dfs(int size, int pos, int[] arr, boolean[] vis, String result){
+    private void dfs(int size, int[] arr, String result) throws IOException {
         if(result.length() == size*2){
-            System.out.println(result.substring(0, result.length()-1));
-            vis[pos] = false;
+            bw.write(result.substring(0, result.length()-1));
+            bw.newLine();
+            //System.out.println();
             return;
         }
 
-        for(int i = pos; i < arr.length;i++){
-            if(vis[i]){
-                continue;
-            }
-            vis[i] = true;
-            dfs(size, i, arr,vis, result + arr[i] + " ");
+        for(int i = 0; i < arr.length;i++){
+            StringBuilder builder = new StringBuilder();
+            builder.append(result).append(arr[i]).append(" ");
+            dfs(size, arr, builder.toString());
         }
-        vis[pos] = false;
     }
 }
