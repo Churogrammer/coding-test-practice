@@ -9,9 +9,10 @@ public class BaekjoonTemplate {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
+        BaekjoonTemplate s = new BaekjoonTemplate();
+
         int n = Integer.parseInt(st.nextToken());
 
-        BaekjoonTemplate s = new BaekjoonTemplate();
         s.method(n);
 
         System.out.println();
