@@ -4,6 +4,8 @@
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
+|2023-04-26 (수)|백준|DP|Silver3|<a href="https://www.acmicpc.net/problem/2193">이친수</a>|
+|2023-04-26 (수)|백준|DP|Bronze1|<a href="https://www.acmicpc.net/problem/2775">부녀회장이 될테야</a>|
 |2023-04-21 (금)|백준|DP/<br>Greedy|Silver|<a href="https://www.acmicpc.net/problem/2839">설탕 배달</a>|
 |2023-04-20 (목)|백준|백트래킹|Gold4|<a href = "https://www.acmicpc.net/problem/9663">N-Queen</a>|
 |2023-04-19 (수)|백준|백트래킹|Silver3|<a href = "https://www.acmicpc.net/problem/15652">N과 M (4)</a><br><a href = "https://www.acmicpc.net/problem/15651">N과 M (3)</a><br><a href = "https://www.acmicpc.net/problem/15650">N과 M (2)</a><br><a href = "https://www.acmicpc.net/problem/15649">N과 M (1)</a>|
