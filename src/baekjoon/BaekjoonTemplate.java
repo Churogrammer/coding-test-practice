@@ -13,6 +13,13 @@ public class BaekjoonTemplate {
 
         int n = Integer.parseInt(st.nextToken());
 
+        for(int i = 0; i < n; i++){
+            StringTokenizer st2 = new StringTokenizer(br.readLine());
+            int m = Integer.parseInt(st2.nextToken());
+
+            StringTokenizer st3 = new StringTokenizer(br.readLine());
+            int k = Integer.parseInt(st3.nextToken());
+        }
         s.method(n);
 
         System.out.println();
