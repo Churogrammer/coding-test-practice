@@ -1,9 +1,11 @@
-# ✈️ 코딩테스트 연습
+# ✈️  코딩테스트 연습
 ### 유형별로 낮은 단계부터 풀어보는 중
 
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
+|2023-04-29 (토)|백준|BruteForce|Silver5|<a href="https://www.acmicpc.net/problem/11650">좌표 정렬하기</a>|
+|2023-04-29 (토)|백준|BruteForce|Silver5|<a href="https://www.acmicpc.net/problem/4673">셀프 넘버</a>|
 |2023-04-26 (수)|백준|DP|Silver3|<a href="https://www.acmicpc.net/problem/2193">이친수</a>|
 |2023-04-26 (수)|백준|DP|Bronze1|<a href="https://www.acmicpc.net/problem/2775">부녀회장이 될테야</a>|
 |2023-04-21 (금)|백준|DP/<br>Greedy|Silver|<a href="https://www.acmicpc.net/problem/2839">설탕 배달</a>|
