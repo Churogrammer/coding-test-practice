@@ -22,27 +22,21 @@ public class NandM4 {
             arr[i] = i+1;
         }
 
-        s.dfs(m, arr, "");
+        s.dfs(m, arr, 0,"");
         bw.flush();
     }
 
-    private void dfs(int size, int[] arr, String result) throws IOException {
+    private void dfs(int size, int[] arr, int pos, String result) throws IOException {
         if(result.length() == size*2){
             bw.write(result.substring(0, result.length()-1));
             bw.newLine();
             return;
         }
 
-        for(int i = 0; i < arr.length;i++){
-            if(result.length() > 0){
-                Integer a = Integer.parseInt(result.substring(result.length()-2, result.length()-1));
-                if(a > arr[i]){
-                    continue;
-                }
-            }
+        for(int i = pos; i < arr.length;i++){
             StringBuilder builder = new StringBuilder();
             builder.append(result).append(arr[i]).append(" ");
-            dfs(size, arr, builder.toString());
+            dfs(size, arr,i, builder.toString());
 
         }
     }

@@ -30,7 +30,6 @@ public class NandM2 {
     private void dfs(int size, int pos, int[] arr, boolean[] vis, String result){
         if(result.length() == size*2){
             System.out.println(result.substring(0, result.length()-1));
-            vis[pos] = false;
             return;
         }
 
@@ -39,8 +38,8 @@ public class NandM2 {
                 continue;
             }
             vis[i] = true;
-            dfs(size, i, arr,vis, result + arr[i] + " ");
+            dfs(size, i+1, arr,vis, result + arr[i] + " ");
+            vis[i] = false;
         }
-        vis[pos] = false;
     }
 }
