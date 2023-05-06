@@ -3,9 +3,13 @@
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
-|2023-05-01 (월)|백준|BruteForce|Silver4|<a href="https://www.acmicpc.net/problem/16992">로마 숫자 만들기</a>|
-|2023-05-01 (월)|백준|BruteForce/<br>DP|Silver4|<a href="https://www.acmicpc.net/problem/10974">모든 순열</a>|
-|2023-05-01 (월)|백준|BruteForce|Silver4|<a href="https://www.acmicpc.net/problem/1057">토너먼트</a>|
+|2023-05-05 (금)|프로그래머스|DFS|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">피로도</a>|
+|2023-05-04 (목)|백준|BFS|Silver4|<a href="https://www.acmicpc.net/problem/16173">점프왕 쩰리</a>|
+|2023-05-04 (목)|백준|DFS|Silver4|<a href="https://www.acmicpc.net/problem/1388">바닥 장식</a>|
+|2023-05-04 (목)|백준|BruteForce|Silver3|<a href="https://www.acmicpc.net/problem/2548">대표 자연수</a>|
+|2023-05-03 (수)|백준|BruteForce|Silver3|<a href="https://www.acmicpc.net/problem/16922">로마 숫자 만들기</a>|
+|2023-05-03 (수)|백준|BruteForce/<br>DP|Silver3|<a href="https://www.acmicpc.net/problem/10974">모든 순열</a>|
+|2023-05-03 (수)|백준|BruteForce|Silver4|<a href="https://www.acmicpc.net/problem/1057">토너먼트</a>|
 |2023-05-01 (월)|백준|BruteForce|Silver4|<a href="https://www.acmicpc.net/problem/1018">체스판 다시 칠하기</a>|
 |2023-05-01 (월)|백준|BruteForce|Silver4|<a href="https://www.acmicpc.net/problem/1065">한수</a>|
 
