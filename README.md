@@ -3,6 +3,11 @@
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
+|2023-05-10 (수)|백준|문자열|Silver3|<a href="https://www.acmicpc.net/problem/14425">문자열 집합</a>|
+|2023-05-10 (수)|백준|문자열|Silver4|<a href="https://www.acmicpc.net/problem/1764">듣보잡</a>|
+|2023-05-10 (수)|백준|문자열|Silver5|<a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a>|
+|2023-05-10 (수)|프로그래머스|구현|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12911">다음 큰 숫자</a>|
+|2023-05-10 (수)|프로그래머스|구현|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12924">숫자의 표현</a>|
 |2023-05-09 (화)|프로그래머스|정렬|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12941">최솟값 만들기</a>|
 |2023-05-09 (화)|프로그래머스|구현|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/70129">이진 변환 반복하기</a>|
 |2023-05-07 (일)|프로그래머스|문자열|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12951">JadenCase 문자열</a>|
