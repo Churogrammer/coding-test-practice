@@ -3,6 +3,12 @@
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
+|2023-05-12 (금)|프로그래머스|해시|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981">영어 끝말잇기</a>|
+|2023-05-12 (금)|프로그래머스|스택|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a>|
+|2023-05-12 (금)|백준|Greedy|Silver5|<a href="https://www.acmicpc.net/problem/1439">뒤집기</a>|
+|2023-05-11 (목)|백준|Greedy|Silver2|<a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호</a>|
+|2023-05-11 (목)|백준|BruteForce|Silver1|<a href="https://www.acmicpc.net/problem/14888">연산자 끼워넣기</a>|
+|2023-05-11 (목)|백준|BruteForce|Silver1|<a href="https://www.acmicpc.net/problem/2529">부등호</a>|
 |2023-05-10 (수)|백준|문자열|Silver3|<a href="https://www.acmicpc.net/problem/14425">문자열 집합</a>|
 |2023-05-10 (수)|백준|문자열|Silver4|<a href="https://www.acmicpc.net/problem/1764">듣보잡</a>|
 |2023-05-10 (수)|백준|문자열|Silver5|<a href="https://www.acmicpc.net/problem/1316">그룹 단어 체커</a>|
