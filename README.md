@@ -3,7 +3,7 @@
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
-|2023-05-12 (금)|프로그래머스|해시|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12981">영어 끝말잇기</a>|
+|2023-05-12 (금)|프로그래머스|해시|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">점프와 순간이동</a>|
 |2023-05-12 (금)|프로그래머스|스택|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12973">짝지어 제거하기</a>|
 |2023-05-12 (금)|백준|Greedy|Silver5|<a href="https://www.acmicpc.net/problem/1439">뒤집기</a>|
 |2023-05-11 (목)|백준|Greedy|Silver2|<a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호</a>|
