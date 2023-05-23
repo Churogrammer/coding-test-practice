@@ -3,6 +3,12 @@
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
+|2023-05-23 (화)|프로그래머스|수학|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a>|
+|2023-05-23 (화)|프로그래머스|해시|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">H-Index</a>|
+
+|2023-05-22 (월)|프로그래머스|배열|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/87390">n^2 배열 자르기</a>|
+|2023-05-22 (월)|프로그래머스|BF|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131701">연속 부분 수열 합의 개수</a>|
+
 |2023-05-17 (수)|프로그래머스|DP|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12914">멀리뛰기</a>|
 |2023-05-17 (수)|프로그래머스|Greedy|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42885">구명보트</a>|
 |2023-05-16 (화)|프로그래머스|해시|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12980">점프와 순간이동</a>|
