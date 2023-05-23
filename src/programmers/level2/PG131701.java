@@ -4,7 +4,6 @@ import java.util.*;
 
 public class PG131701 {
     public int solution(int[] elements) {
-        int answer = 0;
         Set<Integer> set = new HashSet<>();
         int[] arr = new int[elements.length*2];
         System.arraycopy(elements,0,arr,0,elements.length);
@@ -17,8 +16,6 @@ public class PG131701 {
                 set.add(sum);
             }
         }
-        List<Integer> list = new ArrayList<>();
-        Arrays.stream(list).mapToInt(Integer::intValue).toArray();
         return set.size();
     }
 }
