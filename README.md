@@ -3,6 +3,8 @@
 
 |날짜|출처|유형|등급 |이름|
 |-|:-:|:-:|:-:|:-:|
+|2023-05-27 (토)|백준|Greedy|Silver3|<a href="https://www.acmicpc.net/problem/13305">주유소</a>|
+|2023-05-27 (토)|백준|Greedy|Silver4|<a href="https://www.acmicpc.net/problem/11399">ATM</a>|
 |2023-05-24 (수)|프로그래머스|스택|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">주식 가격</a>|
 |2023-05-24 (수)|프로그래머스|해시|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/131127">할인행사</a>|
 |2023-05-23 (화)|프로그래머스|수학|Level2|<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12953">N개의 최소공배수</a>|
