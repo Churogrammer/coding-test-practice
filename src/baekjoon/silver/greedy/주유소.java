@@ -1,5 +1,10 @@
 package baekjoon.silver.greedy;
-
+/*
+Greedy
+Silver3
+주유소
+https://www.acmicpc.net/problem/13305
+*/
 import java.util.Scanner;
 
 public class 주유소 {
